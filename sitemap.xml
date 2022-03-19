@@ -2,27 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://akko.space/2022/03/18/%E8%B7%9F%E7%9D%80%E9%9F%A9%E9%A1%BA%E5%B9%B3%E5%AD%A6Java/</loc>
+    <loc>http://akko.space/2022/03/14/%E8%B7%9F%E7%9D%80%E9%9F%A9%E9%A1%BA%E5%B9%B3%E5%AD%A6Java/</loc>
     
-    <lastmod>2022-03-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://akko.space/2022/03/18/test/</loc>
-    
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-03-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://akko.space/2022/03/17/hello-world/</loc>
+    <loc>http://akko.space/2022/03/18/TestSite/</loc>
     
-    <lastmod>2022-03-17</lastmod>
+    <lastmod>2022-03-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +22,7 @@
 
   <url>
     <loc>http://akko.space/</loc>
-    <lastmod>2022-03-18</lastmod>
+    <lastmod>2022-03-19</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
