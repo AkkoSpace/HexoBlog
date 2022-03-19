@@ -1,2 +1,6 @@
-http://akko.space/2022/03/14/%E8%B7%9F%E7%9D%80%E9%9F%A9%E9%A1%BA%E5%B9%B3%E5%AD%A6Java/
+http://akko.space/Study/Java/learnjava
 http://akko.space/
+http://akko.space/tags/%E9%9F%A9%E9%A1%BA%E5%B9%B3/
+http://akko.space/tags/DOS/
+http://akko.space/categories/Study/
+http://akko.space/categories/Study/Java/
