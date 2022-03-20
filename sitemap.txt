@@ -1,7 +1,7 @@
 http://akko.space/StrayBirds.html
 http://akko.space/artitalk/index.html
-http://akko.space/%E5%8D%97%E7%93%9C%E9%98%81/JS/IconFont/
-http://akko.space/Study/Java/LearnJava/
+http://akko.space/IconFont/
+http://akko.space/LearnJava.html
 http://akko.space/tags/index.html
 http://akko.space/categories/index.html
 http://akko.space/about/index.html
