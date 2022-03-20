@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://akko.space/%E5%8D%97%E7%93%9C%E9%98%81/JS/IconFont/</loc>
+    
+    <lastmod>2022-03-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://akko.space/Study/Java/learnjava/</loc>
+    
+    <lastmod>2022-03-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://akko.space/tags/index.html</loc>
     
     <lastmod>2022-03-20</lastmod>
@@ -23,24 +41,6 @@
     <loc>http://akko.space/about/index.html</loc>
     
     <lastmod>2022-03-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://akko.space/uncategorized/IconFont/</loc>
-    
-    <lastmod>2022-03-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://akko.space/Study/Java/learnjava/</loc>
-    
-    <lastmod>2022-03-19</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,6 +76,20 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://akko.space/tags/IconFont/</loc>
+    <lastmod>2022-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://akko.space/tags/JS/</loc>
+    <lastmod>2022-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -87,6 +101,20 @@
   
   <url>
     <loc>http://akko.space/categories/Study/Java/</loc>
+    <lastmod>2022-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://akko.space/categories/%E5%8D%97%E7%93%9C%E9%98%81/</loc>
+    <lastmod>2022-03-20</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://akko.space/categories/%E5%8D%97%E7%93%9C%E9%98%81/JS/</loc>
     <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
