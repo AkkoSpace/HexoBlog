@@ -22,7 +22,7 @@
 
   <url>
     <loc>http://akko.space/</loc>
-    <lastmod>2022-03-19</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -30,21 +30,21 @@
   
   <url>
     <loc>http://akko.space/tags/%E9%9F%A9%E9%A1%BA%E5%B9%B3/</loc>
-    <lastmod>2022-03-19</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://akko.space/tags/DOS/</loc>
-    <lastmod>2022-03-19</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://akko.space/tags/Java/</loc>
-    <lastmod>2022-03-19</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -53,14 +53,14 @@
   
   <url>
     <loc>http://akko.space/categories/Study/</loc>
-    <lastmod>2022-03-19</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://akko.space/categories/Study/Java/</loc>
-    <lastmod>2022-03-19</lastmod>
+    <lastmod>2022-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
