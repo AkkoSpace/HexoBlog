@@ -1,5 +1,5 @@
+http://akko.space/music/index.html
 http://akko.space/about/index.html
-http://akko.space/music/
 http://akko.space/tags/index.html
 http://akko.space/StrayBirds.html
 http://akko.space/IconFont/
