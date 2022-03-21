@@ -169,14 +169,14 @@
   </url>
   
   <url>
-    <loc>http://akko.space/categories/Study/Java/</loc>
+    <loc>http://akko.space/categories/%E6%96%87%E5%AD%A6/</loc>
     <lastmod>2022-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://akko.space/categories/%E6%96%87%E5%AD%A6/</loc>
+    <loc>http://akko.space/categories/Study/Java/</loc>
     <lastmod>2022-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
