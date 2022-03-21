@@ -1,10 +1,11 @@
+http://akko.space/music/
+http://akko.space/tags/index.html
 http://akko.space/StrayBirds.html
 http://akko.space/IconFont/
 http://akko.space/categories/index.html
 http://akko.space/about/index.html
 http://akko.space/artitalk/index.html
 http://akko.space/LearnJava.html
-http://akko.space/tags/index.html
 http://akko.space/
 http://akko.space/tags/IconFont/
 http://akko.space/tags/JS/
