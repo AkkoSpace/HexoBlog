@@ -101,6 +101,20 @@
 
   
   <url>
+    <loc>http://akko.space/tags/IconFont/</loc>
+    <lastmod>2022-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://akko.space/tags/JS/</loc>
+    <lastmod>2022-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://akko.space/tags/%E9%9F%A9%E9%A1%BA%E5%B9%B3/</loc>
     <lastmod>2022-03-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -116,6 +130,20 @@
   
   <url>
     <loc>http://akko.space/tags/Java/</loc>
+    <lastmod>2022-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://akko.space/tags/%E7%AD%89%E9%A3%8E/</loc>
+    <lastmod>2022-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://akko.space/tags/%E6%83%85%E4%B9%A6/</loc>
     <lastmod>2022-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -149,38 +177,24 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>http://akko.space/tags/IconFont/</loc>
-    <lastmod>2022-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://akko.space/tags/JS/</loc>
-    <lastmod>2022-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://akko.space/tags/%E7%AD%89%E9%A3%8E/</loc>
-    <lastmod>2022-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://akko.space/tags/%E6%83%85%E4%B9%A6/</loc>
-    <lastmod>2022-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
+    <loc>http://akko.space/categories/%E5%8D%97%E7%93%9C%E9%98%81/</loc>
+    <lastmod>2022-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://akko.space/categories/Study/</loc>
+    <lastmod>2022-03-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://akko.space/categories/%E6%84%8F%E5%A2%83/</loc>
     <lastmod>2022-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -194,7 +208,7 @@
   </url>
   
   <url>
-    <loc>http://akko.space/categories/%E5%8D%97%E7%93%9C%E9%98%81/</loc>
+    <loc>http://akko.space/categories/%E5%8D%97%E7%93%9C%E9%98%81/JS/</loc>
     <lastmod>2022-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -209,20 +223,6 @@
   
   <url>
     <loc>http://akko.space/categories/%E6%96%87%E5%AD%A6/%E8%AF%97%E6%AD%8C/</loc>
-    <lastmod>2022-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://akko.space/categories/%E5%8D%97%E7%93%9C%E9%98%81/JS/</loc>
-    <lastmod>2022-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://akko.space/categories/%E6%84%8F%E5%A2%83/</loc>
     <lastmod>2022-03-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
