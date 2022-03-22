@@ -1,11 +1,11 @@
+http://akko.space/categories/index.html
+http://akko.space/tags/index.html
 http://akko.space/IconFont/
 http://akko.space/Letter1/
 http://akko.space/DouBanSpider/
 http://akko.space/music/index.html
 http://akko.space/about/index.html
-http://akko.space/tags/index.html
 http://akko.space/StrayBirds.html
-http://akko.space/categories/index.html
 http://akko.space/artitalk/index.html
 http://akko.space/LearnJava.html
 http://akko.space/
