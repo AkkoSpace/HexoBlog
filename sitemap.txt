@@ -23,7 +23,7 @@ http://akko.space/tags/%E7%8E%B0%E4%BB%A3/
 http://akko.space/categories/%E5%8D%97%E7%93%9C%E9%98%81/
 http://akko.space/categories/Study/
 http://akko.space/categories/%E6%84%8F%E5%A2%83/
-http://akko.space/categories/%E6%96%87%E5%AD%A6/
 http://akko.space/categories/%E5%8D%97%E7%93%9C%E9%98%81/JS/
+http://akko.space/categories/%E6%96%87%E5%AD%A6/
 http://akko.space/categories/Study/Java/
 http://akko.space/categories/%E6%96%87%E5%AD%A6/%E8%AF%97%E6%AD%8C/
