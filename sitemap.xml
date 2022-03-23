@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://akko.space/GraduationProject/</loc>
+    
+    <lastmod>2022-03-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://akko.space/tags/index.html</loc>
     
     <lastmod>2022-03-22</lastmod>
@@ -177,6 +186,13 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://akko.space/tags/%E2%99%BE%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF/</loc>
+    <lastmod>2022-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -223,6 +239,27 @@
   
   <url>
     <loc>http://akko.space/categories/%F0%9F%93%96%E6%96%87%E5%AD%A6/%F0%9F%93%9C%E8%AF%97%E6%AD%8C/</loc>
+    <lastmod>2022-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://akko.space/categories/%F0%9F%A4%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://akko.space/categories/%F0%9F%A4%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%F0%9F%93%9A%E7%9B%91%E7%9D%A3%E5%BC%8F%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2022-03-23</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://akko.space/categories/%F0%9F%A4%96%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/%F0%9F%93%9A%E7%9B%91%E7%9D%A3%E5%BC%8F%E5%AD%A6%E4%B9%A0/%E2%99%BE%E6%9C%B4%E7%B4%A0%E8%B4%9D%E5%8F%B6%E6%96%AF/</loc>
     <lastmod>2022-03-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
